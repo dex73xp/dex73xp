@@ -1,4 +1,8 @@
-## Hey there! I Am using WhatsApp​.
+# dex73xp
+#### Hey there! I Am using WhatsApp​.
+
+<img width="600" height="338" alt="очень крутое изображение" src="https://github.com/user-attachments/assets/7f519681-5d42-4e62-989a-3512029bf04d" />
+
 
 <!--
 **dex73xp/dex73xp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
