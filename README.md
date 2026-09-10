@@ -1,7 +1,9 @@
 # dex73xp
 #### Hey there! I Am using WhatsApp​.
 
-<img width="600" height="338" alt="очень крутое изображение" src="https://github.com/user-attachments/assets/7f519681-5d42-4e62-989a-3512029bf04d" />  
+<img width="600" height="338" alt="очень крутое изображение" src="https://github.com/user-attachments/assets/7f519681-5d42-4e62-989a-3512029bf04d" />
+
+
 ![Counter](https://count.getloli.com/get/@rule34?theme=rule34&padding=10&offset=-2&align=bottom&scale=2&pixelated=1&darkmode=0&num=0123456789)
 
 <!--
