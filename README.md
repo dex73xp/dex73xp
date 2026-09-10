@@ -2,7 +2,7 @@
 #### Hey there! I Am using WhatsApp​.
 
 <img width="600" height="338" alt="очень крутое изображение" src="https://github.com/user-attachments/assets/7f519681-5d42-4e62-989a-3512029bf04d" />
-
+<img src="[https://count.getloli.com/@:name](https://count.getloli.com/@rule34?name=d-8n0&theme=rule34&padding=10&offset=-2&align=bottom&scale=2&pixelated=1&darkmode=0&num=0123456789)" alt=":name" />
 
 <!--
 **dex73xp/dex73xp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
